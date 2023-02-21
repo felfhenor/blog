@@ -21,18 +21,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tsavorite                          # the main title
+title: World Seller                          # the main title
 
 tagline: Updates about the game from the dev team!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Updates about Tsavorite from the dev team.
+  Updates about World Seller from the dev team.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.tsavoritegame.com'
+url: 'https://blog.worldsellergame.com'
 
 github:
-  username: TsavoriteGame             # change to your github username
+  username: WorldSellerGame             # change to your github username
 
 twitter:
   username: seiyria            # change to your twitter username
@@ -40,14 +40,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Tsavorite Team
-  email: contact@tsavoritegame.com            # change to your email address
+  name: World Seller Team
+  email: contact@worldsellergame.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - mailto:contact@tsavoritegame.com
-    - https://twitter.tsavoritegame.com      # change to your twitter homepage
-    - https://reddit.tsavoritegame.com       # change to your github homepage
-    - https://discord.tsavoritegame.com
+    - mailto:contact@worldsellergame.com
+    # - https://twitter.tsavoritegame.com      # change to your twitter homepage
+    # - https://reddit.tsavoritegame.com       # change to your github homepage
+    - https://discord.worldsellergame.com
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
