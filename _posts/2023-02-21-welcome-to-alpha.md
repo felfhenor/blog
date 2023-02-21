@@ -9,6 +9,8 @@ tags: [world-seller]
 
 Welcome to the [World Seller](https://play.worldsellergame.com) Alpha! Here, we'd like to cover some of what you can expect in this first and early version of World Seller, what sort of feedback we're looking for, and as well as where we plan to go from here. When you play World Seller, you'll have one character slot to progress with. We'll be doing our best to not require character wipes, so feel free to keep this savefile as long as you like. That said, if you encounter any strange errors, please back up your save file and start a fresh character. We might be able to fix the save file, but we can't guarantee it.
 
+
+
 > Warning: Try to always keep a backup save file, just in case!
 {: .prompt-warning }
 
