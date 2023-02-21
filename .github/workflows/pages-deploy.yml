@@ -31,6 +31,12 @@ jobs:
       - name: Deploy
         run: bundle exec jekyll build
 
+      - name: Copy Headers
+        uses: canastro/copy-file-action@master
+        with:
+          source: "_headers"
+          target: "_site/_headers"
+
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v1.1
         with:
