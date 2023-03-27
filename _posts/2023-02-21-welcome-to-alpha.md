@@ -42,7 +42,6 @@ In this first version of World Seller, you'll be able to do the following:
 Over time, we plan to make many improvements to World Seller - we have big ambitions! For now, our immediate list has the following on it:
 
 * Add a visual map of the game. This will allow players to have something less "app-y" and more "game-y" to look at. If possible, we'll keep the "app-y" version as an option, but the visual will be what we want to focus on.
-* Add mod support. This is a long, long ways off, but we want to support it, and the ground work is in place to do so!
 * Make sure mobile is supported. Right now, we're only supporting desktop resolutions.
 * Add native downloads for Windows, Mac, and Linux.
 * Add more skills - our first planned one is Enchanting.
