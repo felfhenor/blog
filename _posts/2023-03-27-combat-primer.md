@@ -24,7 +24,8 @@ First and foremost, equipment will give you the much-needed stat boosts you need
 * every point of Attack is +1 damage
 * every point of Speed makes you go significantly faster
 
-> Tip: Giving yourself a weapon and armor will get you pretty far, but there's more you can do. {: .prompt-tip } 
+> Tip: Giving yourself a weapon and armor will get you pretty far, but there's more you can do. 
+{: .prompt-tip } 
 
 ## More Speed
 
@@ -41,7 +42,8 @@ By leveling up _everything_, you will increase your stats, too. For example, the
 * your Health goes up by your total level divided by 3
 * your Energy goes up by your total level divided by 10
 
-> Tip: Leveling up all of your tradeskills is a good way to get more stats in combat. {: .prompt-tip } 
+> Tip: Leveling up all of your tradeskills is a good way to get more stats in combat. 
+{: .prompt-tip } 
 
 ## Equip Skills
 
@@ -49,7 +51,8 @@ When you've attained Combat level 1, as well as other increments for other skill
 
 Additionally, you can equip a skill multiple times if you'd like to use it multiple times in combat. This can let you effectively stack buffs, or stockpile healing abilities.
 
-> Tip: Leveling up all of your tradeskills is a good way to get more abilities in combat. {: .prompt-tip } 
+> Tip: Leveling up all of your tradeskills is a good way to get more abilities in combat. 
+{: .prompt-tip } 
 
 ## Equip Items and Food
 
@@ -57,7 +60,8 @@ Crafting items will help you out by giving you access to limited-use abilities. 
 
 Food is a uniquely useful type of item. They can heal you out of combat, give you buffs or stats when you enter combat, or heal you while you're in combat. If a food is in your food slot, it will give you start-of-combat buffs and stats. Otherwise, some foods have unique abilities when you eat them in combat.
 
-> Tip: Having a full loadout when you enter combat will help you better prepare for the horrors that lie ahead. {: .prompt-tip } 
+> Tip: Having a full loadout when you enter combat will help you better prepare for the horrors that lie ahead. 
+{: .prompt-tip } 
 
 ## Go In At Full Health
 
@@ -65,4 +69,5 @@ It may seem obvious, but to ensure your best success in combat, you'll want to g
 
 Dungeons are different, and don't allow this behavior. We want dungeons to be strategic delves that offer satisfactory rewards for the effort you put in.
 
-> Tip: Dungeons require preparation, and do not let you eat food out of combat unless you equip it in an item slot first. {: .prompt-tip } 
+> Tip: Dungeons require preparation, and do not let you eat food out of combat unless you equip it in an item slot first. 
+{: .prompt-tip } 
